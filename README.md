@@ -4,7 +4,7 @@ Actualmente estoy en el camino para convertirme en desarrollador de aplicaciones
 
 ## 🚀 Proyectos Personales
 
-- **[Simple Task](https://github.com/ErikMobileDev/Simple-Task-Android)**: Una aplicación de gestión de tareas que permite a los usuarios agregar, editar y eliminar tareas. Las tareas se mantienen incluso después de cerrar la aplicación.
+- **[Simple Task](https://github.com/ErikMobileDev/Simple-Task-Android)**: Una aplicación de gestión de tareas que permite a los usuarios agregar y eliminar tareas diarias. Las tareas se mantienen incluso después de cerrar la aplicación.
 
 ## 🛠 Tecnologías y Herramientas
 
