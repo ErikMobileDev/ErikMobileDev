@@ -17,4 +17,4 @@ Actualmente estoy en el camino para convertirme en desarrollador de aplicaciones
 
 - **Email**: [erikmobiledev@gmail.com](mailto:erikmobiledev@gmail.com)
 
-¡Gracias por visitar mi perfil! Estoy emocionado por seguir aprendiendo. Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
