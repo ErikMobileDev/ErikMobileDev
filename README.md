@@ -1,6 +1,6 @@
 # Hola, soy Erik 👋
 
-Actualmente estoy en el camino para convertirme en desarrollador de aplicaciones móviles. He completado mis estudios en DAM y ahora estoy practicando creando proyectos personales para ganar experiencia y mejorar mis habilidades.
+Actualmente estoy en el camino para convertirme en desarrollador de aplicaciones móviles. He completado mis estudios en DAM y ahora practico creando proyectos personales para ganar experiencia y mejorar mis habilidades.
 
 ## 🚀 Proyectos Personales
 
